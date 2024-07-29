@@ -61,6 +61,7 @@ namespace Advance02
             return -1;
         }
 
+
         static void Main(string[] args)
         {
             #region Part 1
